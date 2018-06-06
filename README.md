@@ -1,0 +1,2 @@
+# amazonnlp
+Aplica TA2
